@@ -1,0 +1,4 @@
+﻿Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours").Link("Flights").Click @@ hightlight id_;_Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours").Link("Flights")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours_2").Link("Hotels").Click @@ hightlight id_;_Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours 2").Link("Hotels")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Welcome: Mercury Tours").Page("Under Construction: Mercury").Link("Car Rentals").Click @@ hightlight id_;_Browser("Welcome: Mercury Tours").Page("Under Construction: Mercury").Link("Car Rentals")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("Welcome: Mercury Tours").Page("Under Construction: Mercury").Link("Cruises").Click @@ hightlight id_;_Browser("Welcome: Mercury Tours").Page("Under Construction: Mercury").Link("Cruises")_;_script infofile_;_ZIP::ssf4.xml_;_
